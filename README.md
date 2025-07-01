@@ -1,2 +1,2 @@
 # Shipments
-A shipment program that I created that takes in user input based on weight and determines the cheapest shipment cost.
+A shipment program I created that takes in user input for wieght amounts and determines the cheapest shipment cost based on information I was provided from a set of data.
