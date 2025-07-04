@@ -1,6 +1,7 @@
 # Sal's Shipping Weight Distribution
 
 # Global Variables
+# Note: (If you are trying to use user input in Codeacademy, it won't let you so hard code a number in instead!)
 weight = float(input("Enter weight of the package: "))
 costG = 0
 costD = 0
